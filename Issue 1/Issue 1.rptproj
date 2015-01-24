@@ -13,6 +13,10 @@
       <Name>Sales Amount by Channel in USA.rdl</Name>
       <FullPath>Sales Amount by Channel in USA.rdl</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>Issue.rdl</Name>
+      <FullPath>Issue.rdl</FullPath>
+    </ProjectItem>
   </Reports>
   <Configurations>
     <Configuration>
